@@ -19,3 +19,7 @@ This is an application in which you all can see the status of the book in the li
 ### It shows the functionality of the icons
 ![Image](https://github.com/AnkitaSinghIE/fire_mybrary/blob/master/screenShot%20of%20project/demo_1%20(2).png)
 
+## Resource used to build the project
+[Youtube video](https://www.youtube.com/watch?v=4cFL7CMd5QY)
+
+
