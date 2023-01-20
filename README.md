@@ -14,7 +14,6 @@ This is an application in which you all can see the status of the book in the li
 3. Demonstration of the Applications
 
 # Specifications and Functionality of the Application
-### It shows the working of the search bar and the result is visvible in the recycler view and the number of book present
 
 ### It shows the functionality of the icons
 ![Image](https://cdn.dorik.com/63c24c86e027bc0011f3ad2a/63c24cfde027bc0011f3ad2d/images/demo_1-2_q2tbcbb5.png)
